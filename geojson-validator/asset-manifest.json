@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geojson-validator/static/css/main.fd776f89.css",
+    "main.js": "/geojson-validator/static/js/main.365e9e58.js",
+    "index.html": "/geojson-validator/index.html",
+    "main.fd776f89.css.map": "/geojson-validator/static/css/main.fd776f89.css.map",
+    "main.365e9e58.js.map": "/geojson-validator/static/js/main.365e9e58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd776f89.css",
+    "static/js/main.365e9e58.js"
+  ]
+}
