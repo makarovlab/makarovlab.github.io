@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/geojson-validator/static/css/main.fd776f89.css",
-    "main.js": "/geojson-validator/static/js/main.4aac00f7.js",
+    "main.css": "/geojson-validator/static/css/main.0e231c19.css",
+    "main.js": "/geojson-validator/static/js/main.0d1040c1.js",
     "index.html": "/geojson-validator/index.html",
-    "main.fd776f89.css.map": "/geojson-validator/static/css/main.fd776f89.css.map",
-    "main.4aac00f7.js.map": "/geojson-validator/static/js/main.4aac00f7.js.map"
+    "main.0e231c19.css.map": "/geojson-validator/static/css/main.0e231c19.css.map",
+    "main.0d1040c1.js.map": "/geojson-validator/static/js/main.0d1040c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd776f89.css",
-    "static/js/main.4aac00f7.js"
+    "static/css/main.0e231c19.css",
+    "static/js/main.0d1040c1.js"
   ]
 }
