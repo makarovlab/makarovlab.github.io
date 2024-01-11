@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spider-template-generator-ui/static/css/main.1ca7cd20.css",
+    "main.js": "/spider-template-generator-ui/static/js/main.f37dbfd9.js",
+    "index.html": "/spider-template-generator-ui/index.html",
+    "main.1ca7cd20.css.map": "/spider-template-generator-ui/static/css/main.1ca7cd20.css.map",
+    "main.f37dbfd9.js.map": "/spider-template-generator-ui/static/js/main.f37dbfd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ca7cd20.css",
+    "static/js/main.f37dbfd9.js"
+  ]
+}
